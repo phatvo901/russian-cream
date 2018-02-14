@@ -1,1 +1,37 @@
+* {
+	font-family: 'Share Tech Mono', monospace;
+	color: white;
+	box-sizing: border-box;
+}
+body {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#78eeeb+0,06c5c7+100 */
+	background: #78eeeb; /* Old browsers */
+	background: -moz-linear-gradient(top,  #78eeeb 0%, #06c5c7 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #78eeeb 0%,#06c5c7 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #78eeeb 0%,#06c5c7 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#78eeeb', endColorstr='#06c5c7',GradientType=0 ); /* IE6-9 */
+}
+
+img {
+	width: 100%;
+	height: auto;
+	padding-bottom: 30px;
+	padding-top: 30px
+}
+
+h1 {
+	text-align: center;
+	border: 2px solid black;
+}
+
+h2 {
+	border: 2px solid black;
+	margin-left: 7.5px;
+}
+
+p {
+	border: 2px solid black;
+	padding: 5px;
+	margin-left: 7.5px;
+}
 
